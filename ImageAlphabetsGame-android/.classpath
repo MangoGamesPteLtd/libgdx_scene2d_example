@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ImageAlphabetsGame"/>
+	<classpathentry exported="true" kind="lib" path="/ImageAlphabetsGame/libs/javax.inject-1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/ImageAlphabetsGame/libs/netthreads-libgdx.jar"/>
+	<classpathentry exported="true" kind="lib" path="/ImageAlphabetsGame/libs/tween-engine-api.jar" sourcepath="/ImageAlphabetsGame/libs/tween-engine-api-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/libgdxsample/libs/libsforcoreproject/guice-3.0-no_aop.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/MG_Sharath/Desktop/libgdx_game/libs/guice-assistedinject-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/libgdxsample/libs/libsfordesktop/gdx-0.9.9-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

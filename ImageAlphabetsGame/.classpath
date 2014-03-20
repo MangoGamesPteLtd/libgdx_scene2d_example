@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsforcoreproject/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsforcoreproject/gdx-0.9.9-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsforcoreproject/guice-3.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsforcoreproject/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsforcoreproject/netthreads-libgdx.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsforcoreproject/tween-engine-api.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsforcoreproject/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MG_Sharath/Desktop/libgdx_game/box2dlights/box2dlights.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MG_Sharath/Desktop/libgdx_game/box2dlights/box2dlights-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

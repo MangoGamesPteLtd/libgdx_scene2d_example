@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ImageAlphabetsGame"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/gdx-0.9.9-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/gdx-backend-lwjgl-0.9.9-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/gdx-platform-0.9.9-SNAPSHOT-natives-linux.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/gdx-platform-0.9.9-SNAPSHOT-natives-mac.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/gdx-platform-0.9.9-SNAPSHOT-natives-win.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/guice-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/jinput-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/jinput-platform-2.0.5-natives-linux.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/jinput-platform-2.0.5-natives-osx.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/jinput-platform-2.0.5-natives-windows.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/jutils-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/lwjgl-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/lwjgl-platform-2.9.0-natives-linux.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/lwjgl-platform-2.9.0-natives-osx.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/lwjgl-platform-2.9.0-natives-windows.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/netthreads-libgdx.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/tween-engine-api.jar"/>
+	<classpathentry kind="lib" path="C:/libgdxsample/libs/libsfordesktop/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MG_Sharath/Desktop/libgdx_game/libs/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
